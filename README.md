@@ -1,4 +1,4 @@
-# Growfarm
+# GrowFarm
 
 ## 💥 Introduction
 
