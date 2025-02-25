@@ -68,7 +68,7 @@ npm install
 npm start
 ```
 
-4️⃣ FastAPI Setup
+**4️⃣ FastAPI Setup**
 ```sh
 cd fastapi-server
 pip install -r requirements.txt
