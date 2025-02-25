@@ -13,9 +13,9 @@ It is built using React for the frontend, Express, Sockets Server, and Twilio fo
 
 The portal was built to address the challenges faced by farmers in accessing crucial agricultural information and services. It aims to streamline decision-making by providing a centralized platform with a unique farmer ID for accessing schemes, land details, APMC history, and smart farming capabilities. The goal is to empower farmers with valuable insights, improve their decision-making, and enhance overall agricultural outcomes.
 
-# 🚀 Technologies Used  
+## 🚀 Technologies Used  
 
-## 🧠 Machine Learning & AI  
+### 🧠 Machine Learning & AI  
 | Technology | Description |
 |------------|-------------|
 | ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B3C?style=for-the-badge&logo=xgboost&logoColor=white) | Extreme Gradient Boosting for optimized ML models |
@@ -26,7 +26,7 @@ The portal was built to address the challenges faced by farmers in accessing cru
 
 ---
 
-## 🌍 Web Technologies  
+### 🌍 Web Technologies  
 | Technology | Description |
 |------------|-------------|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | Backend JavaScript runtime |
