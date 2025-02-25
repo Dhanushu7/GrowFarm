@@ -13,14 +13,32 @@ It is built using React for the frontend, Express, Sockets Server, and Twilio fo
 
 The portal was built to address the challenges faced by farmers in accessing crucial agricultural information and services. It aims to streamline decision-making by providing a centralized platform with a unique farmer ID for accessing schemes, land details, APMC history, and smart farming capabilities. The goal is to empower farmers with valuable insights, improve their decision-making, and enhance overall agricultural outcomes.
 
-## Technologies Used
+# 🚀 Technologies Used  
 
-🧠 Machine Learning & AI
-• XGBoost – Extreme Gradient Boosting for optimized machine learning models
-• Mask R-CNN – Instance segmentation for object detection
-• RAG – Retrieval-Augmented Generation for enhanced AI responses
-• Hugging Face – Pre-trained NLP models and transformers
-• LangChain – Framework for developing LLM-powered applications
+## 🧠 Machine Learning & AI  
+| Technology | Description |
+|------------|-------------|
+| ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B3C?style=for-the-badge&logo=xgboost&logoColor=white) | Extreme Gradient Boosting for optimized ML models |
+| ![Mask R-CNN](https://img.shields.io/badge/Mask%20R--CNN-252525?style=for-the-badge) | Instance segmentation for object detection |
+| ![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge) | Retrieval-Augmented Generation for enhanced AI responses |
+| ![Hugging Face](https://img.shields.io/badge/Huggingface-FFCC00?style=for-the-badge&logo=huggingface&logoColor=white) | Pre-trained NLP models & transformers |
+| ![LangChain](https://img.shields.io/badge/LangChain-02569B?style=for-the-badge) | Framework for developing LLM-powered applications |
+
+---
+
+## 🌍 Web Technologies  
+| Technology | Description |
+|------------|-------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | Backend JavaScript runtime |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | Frontend UI framework |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | High-performance web framework for APIs |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL database for scalable storage |
+| ![OpenWeather API](https://img.shields.io/badge/OpenWeather-FF8000?style=for-the-badge) | Real-time weather data integration |
+| ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) | Conversational AI & chatbot framework |
+| ![Twilio API](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) | SMS & communication integration |
+
+---
+
 
 ## 🛠️ Local development
 
