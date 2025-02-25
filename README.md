@@ -8,7 +8,7 @@ Moreover, the portal incorporates smart farming capabilities, utilizing machine 
 
 It is built using React for the frontend, Express, Sockets Server, and Twilio for SMS service and communication, and MongoDB for the database and machine learning algorithms for disease detection, crop prediction, and crop recommendation.
 
-## 💡 Why did I build this?
+## 💡 Why did we build this?
 
 The portal was built to address the challenges faced by farmers in accessing crucial agricultural information and services. It aims to streamline decision-making by providing a centralized platform with a unique farmer ID for accessing schemes, land details, APMC history, and smart farming capabilities. The goal is to empower farmers with valuable insights, improve their decision-making, and enhance overall agricultural outcomes.
 
@@ -86,7 +86,7 @@ Digital profile of farmers: Every farmer can register their self on growfarm aft
 
 ![APMC](https://user-images.githubusercontent.com/83646676/227987902-e30ed926-316c-4a10-90c5-65f7f5bbd97c.png)
 
-### dashboard to analysis category wise registered farmers 
+### Dashboard to analysis category wise registered farmers 
 
 ![dacwrf](https://user-images.githubusercontent.com/83646676/227988066-48f01abe-9ddc-4ad9-8c24-87fbfd22fc5d.png)
 
