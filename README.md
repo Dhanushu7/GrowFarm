@@ -1,5 +1,5 @@
-# GrowFarm
-<img src="https://github.com/user-attachments/assets/2400b617-0a10-4f2c-a701-e24eeac32ddc" alt="Logo" width="2000">
+# <img src="https://github.com/user-attachments/assets/2400b617-0a10-4f2c-a701-e24eeac32ddc" alt="Logo" width="100"> GrowFarm
+
 
 ## 💥 Introduction
 
