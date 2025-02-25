@@ -13,6 +13,15 @@ It is built using React for the frontend, Express, Sockets Server, and Twilio fo
 
 The portal was built to address the challenges faced by farmers in accessing crucial agricultural information and services. It aims to streamline decision-making by providing a centralized platform with a unique farmer ID for accessing schemes, land details, APMC history, and smart farming capabilities. The goal is to empower farmers with valuable insights, improve their decision-making, and enhance overall agricultural outcomes.
 
+## Technologies Used
+
+🧠 Machine Learning & AI
+XGBoost – Extreme Gradient Boosting for optimized machine learning models
+Mask R-CNN – Instance segmentation for object detection
+RAG – Retrieval-Augmented Generation for enhanced AI responses
+Hugging Face – Pre-trained NLP models and transformers
+LangChain – Framework for developing LLM-powered applications
+
 ## 🛠️ Local development
 
 That's pretty easy. To ensure that you are able to install everything properly, we would recommend you to have <b>Git</b>, <b>NPM</b> and <b>Node.js</b> installed.
