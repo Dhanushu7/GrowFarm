@@ -16,11 +16,11 @@ The portal was built to address the challenges faced by farmers in accessing cru
 ## Technologies Used
 
 🧠 Machine Learning & AI
-XGBoost – Extreme Gradient Boosting for optimized machine learning models
-Mask R-CNN – Instance segmentation for object detection
-RAG – Retrieval-Augmented Generation for enhanced AI responses
-Hugging Face – Pre-trained NLP models and transformers
-LangChain – Framework for developing LLM-powered applications
+• XGBoost – Extreme Gradient Boosting for optimized machine learning models
+• Mask R-CNN – Instance segmentation for object detection
+• RAG – Retrieval-Augmented Generation for enhanced AI responses
+• Hugging Face – Pre-trained NLP models and transformers
+• LangChain – Framework for developing LLM-powered applications
 
 ## 🛠️ Local development
 
