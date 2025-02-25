@@ -44,7 +44,7 @@ The portal was built to address the challenges faced by farmers in accessing cru
 
 That's pretty easy. To ensure that you are able to install everything properly, we would recommend you to have <b>Git</b>, <b>NPM</b> and <b>Node.js</b> installed.
 
-We will first start with setting up the Local Project Environment:
+1️⃣ We will first start with setting up the Local Project Environment:
 
 ```sh
 git clone https://github.com/Neelpatel11/Growfarm-Digital-farmer-portal.git
@@ -53,7 +53,7 @@ npm run install
 ```
 Now we will add the environment variables in the client/ and server/
 
-**Client**
+**2️⃣ Client**
 ```sh
 cd client
 npm install
@@ -61,11 +61,18 @@ npm start
 ```
 For server setup, you need to add your MongoDB database URL to /config/mongoose.js.
 
-**Server**
+**3️⃣ Server**
 ```sh
 cd server
 npm install
 npm start
+```
+
+4️⃣ FastAPI Setup
+```sh
+cd fastapi-server
+pip install -r requirements.txt
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 ## 🛠️ Features of growfarm
@@ -148,7 +155,7 @@ Digital profile of farmers: Every farmer can register their self on growfarm aft
 ![Dhh](https://user-images.githubusercontent.com/83646676/227990730-0ec07b40-c74e-455f-9637-d7ac4406fbf8.png)
 
 
-## 🎬Video demo of Growfarm Ui
+## 🎬 Video demo of Growfarm Ui
 
 
 https://user-images.githubusercontent.com/83646676/227994431-19456186-d09d-4b97-bc8a-d9c06d3121a7.mp4
