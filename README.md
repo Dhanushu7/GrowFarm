@@ -149,6 +149,11 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 ![FPP](https://user-images.githubusercontent.com/83646676/227987187-29cc2ca0-8526-45dd-bb5e-085bd5932287.png)
 
+### GrowFarm App 
+
+![image](https://github.com/user-attachments/assets/af5dc674-4637-4097-994f-3966f5e7c508)
+
+
 ### Hourly Weather forecast
 
 ![HWF](https://user-images.githubusercontent.com/83646676/227987425-616763f5-ade8-47fe-8a37-9eea8f0ea92d.png)
