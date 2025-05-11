@@ -37,8 +37,22 @@ The portal was built to address the challenges faced by farmers in accessing cru
 | ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) | Conversational AI & chatbot framework |
 | ![Twilio API](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) | SMS & communication integration |
 
----
+### 📱 Android Technology Stack
 
+| 🛠️ Technology | 📋 Purpose in the Farmer‑Portal App |
+|---------------|------------------------------------|
+| ⚡ **Kotlin** | Modern, null‑safe language powering the whole app |
+| 🎨 **Jetpack Compose + Material 3** | Declarative UI & sleek components for every screen |
+| 🧭 **Navigation Compose** | Smooth, type‑safe in‑app routing (Home → Weather → Chatbot …) |
+| 📊 **ViewModel + StateFlow** | Lifecycle‑aware reactive state management |
+| 🌐 **Retrofit 2 & OkHttp 5** | Type‑safe REST client for all backend services |
+| 🔄 **Coroutines + WorkManager** | Lightweight async ops & scheduled alerts (weather, schemes) |
+| 💾 **Room** | Local caching of APMC prices, schemes & offline data |
+| 🔗 **Hilt** | Dependency injection for singletons, repositories, ViewModels |
+| 🔔 **Firebase Cloud Messaging** | Push notifications for subsidy & weather alerts |
+| 🤖 **TensorFlow Lite** | On‑device crop‑disease detection & yield inference |
+
+---
 
 ## 🛠️ Local development
 
